@@ -1,0 +1,21 @@
+{
+  "name": "projetinho-api",
+  "version": "1.0.0",
+  "description": "API sendo feita em Construção de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon App.js "
+  },
+  "author": "Matheus Magalhães",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jest": "^29.0.2",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
